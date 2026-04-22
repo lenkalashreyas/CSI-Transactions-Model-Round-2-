@@ -1,2 +1,2 @@
 # CSI-Transactions-Model-Round-2-
-the following is the model for the transactions guven for the dataset
+the following is the model for the transactions given for the dataset
